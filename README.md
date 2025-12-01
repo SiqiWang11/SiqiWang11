@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Siqi Wang 👋
 
-<!--
-**SiqiWang11/SiqiWang11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Double Major in Mathematics & Finance** @ The University of Hong Kong  
+💻 **Skills**: Python, R, SQL | ML/Econometrics | Financial Modeling
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming**: Python (pandas, scikit-learn, XGBoost) • R • SQL  
+**Mathematics**: Linear Algebra • Probability • Optimization • Statistics  
+**Tools**: Git/GitHub • Jupyter • Bloomberg Terminal • Excel (VBA)
+
+---
+
+## 📫 Get in Touch
+
+- 🏫 HKU Email: u3657923@connect.hku.hk
+- 💼 LinkedIn: 
+- 📍 Location: Hong Kong
