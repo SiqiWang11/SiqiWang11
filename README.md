@@ -7,7 +7,7 @@
 
 ## 🚀 Featured Projects
 
-### Hong Kong Merger Arbitrage Analysis(https://github.com/SiqiWang11) Completed
+### [Hong Kong Merger Arbitrage Analysis](https://github.com/SiqiWang11/HK-Merger-Arbitrage-Analysis) Completed
 Empirical analysis of post-M&A announcement returns in Hong Kong market (2022-2025)
 - 📊 11 real M&A deals analyzed, revealing 9.0% average return for completed deals
 - ⚠️ Deal failure risk identified: 20.5% average loss on withdrawn deals
